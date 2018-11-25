@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PrefsExample.iml" filepath="$PROJECT_DIR$/PrefsExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/magicprefs/magicprefs.iml" filepath="$PROJECT_DIR$/magicprefs/magicprefs.iml" />
     </modules>
   </component>
 </project>
